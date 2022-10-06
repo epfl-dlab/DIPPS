@@ -2,7 +2,7 @@
 
 ## Introduction
 
-This is the implementation of the differentially private data collection mechanism *DiPPS* proposed in the paper and the experiments to compare it with other methods.
+This is the implementation of the differentially private data collection mechanism *DiPPS* proposed in the paper [Differentially Private Propensity Scores for Bias Correction](https://arxiv.org/abs/2210.02360) and the experiments to compare it with other methods.
 
 ## Prerequisites
 
