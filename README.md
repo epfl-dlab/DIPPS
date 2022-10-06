@@ -15,7 +15,7 @@ This is the implementation of the differentially private data collection mechani
 * [scikit-learn 0.23.2](https://scikit-learn.org/stable/install.html)  `conda install -c conda-forge scikit-learn`
 
 * [R package 'transport'](https://cran.r-project.org/web/packages/transport/index.html) `wget https://cran.r-project.org/src/contrib/transport_0.12-2.tar.gz`
-`
+
 
 ## Code structure
 ```
